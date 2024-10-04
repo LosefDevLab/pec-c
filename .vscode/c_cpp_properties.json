@@ -1,0 +1,59 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-c++-x64",
+            "includePath": [
+                "d:/.工作文件/VS/Metion/**"
+            ],
+            "compilerPath": "D:\\82241\\Git\\mingw64\\bin\\g++.exe",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerArgs": [
+                ""
+            ],
+            "compilerPathInCppPropertiesJson": "D:\\82241\\Git\\mingw64\\bin\\gcc.exe",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "d:/.工作文件/VS/Metion/**",
+                    "d:/.工作文件/VS/Metion"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        },
+        {
+            "name": "VCX",
+            "includePath": [
+                "d:/.工作文件/VS/Metion/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\VisualStudio\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "intelliSenseMode": "windows-msvc-x64",
+            "compilerPathInCppPropertiesJson": "D:\\82241\\Git\\mingw64\\bin\\gcc.exe",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "d:/.工作文件/VS/Metion/**",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        },
+        {
+            "name": "None",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
