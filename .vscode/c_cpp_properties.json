@@ -23,16 +23,16 @@
         {
             "name": "VCX",
             "includePath": [
-                "d:/.工作文件/VS/Metion/**"
+                "/workspaces/pec-c/"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "D:\\VisualStudio\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "compilerPath": "/usr/bin/clang",
             "intelliSenseMode": "windows-msvc-x64",
-            "compilerPathInCppPropertiesJson": "D:\\82241\\Git\\mingw64\\bin\\gcc.exe",
+            "compilerPathInCppPropertiesJson": "/usr/bin/clang",
             "mergeConfigurations": false,
             "browse": {
                 "path": [
